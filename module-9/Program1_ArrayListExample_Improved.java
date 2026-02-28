@@ -1,7 +1,7 @@
 /**
  * Program1_ArrayListExample_Improved.java
  *
- * CSD 340 - Module 9.2 - Program 1 (Improved)
+ * CSD 402 - Module 9.2 - Program 1 (Improved)
  *
  * Requirements satisfied:
  *  - Has a no-argument constructor that initializes all object fields to defaults.

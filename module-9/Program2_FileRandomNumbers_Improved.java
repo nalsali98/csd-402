@@ -1,7 +1,8 @@
 /**
  * Program2_FileRandomNumbers_Improved.java
  *
- * CSD 340 - Module 9.2 - Program 2 (Improved)
+ * CSD 402
+ * - Module 9.2 - Program 2 (Improved)
  *
  * Requirements satisfied:
  *  - Uses a no-argument constructor to set the file name and any defaults.
